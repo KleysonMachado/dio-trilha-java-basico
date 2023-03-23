@@ -10,6 +10,9 @@ public class TipoDados {
 		float pi = 3.14F;
 		double salario = 1275.33;
 		String meuNome = "Kleyson Machado";
+		
+		String nomeCompleto = "LINGUAGEM" + "JAVA";
+		System.out.print(nomeCompleto);
 
 	}
 
