@@ -3,7 +3,7 @@ package tipos_variaveis;
 public class Variaveis {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.print("Primeiro Teste");
 
 	}
 
