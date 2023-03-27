@@ -17,6 +17,8 @@ public class Main {
         switchFerias();
     }
 
+    // Este é o efeito flexa que deve ser evitado 
+     
     private static void ifFlecha() {
 
         int mes = 20;
