@@ -21,7 +21,7 @@ public class Main {
      
     private static void ifFlecha() {
 
-        int mes = 20;
+        int mes = 2;
         if (mes == 1) {
             System.out.println("Janeiro");
         } else {
@@ -147,7 +147,7 @@ public class Main {
 
     private static void switchSemana() {
 
-        String dia = "mgmgjmg";
+        String dia = "Quarta";
         switch (dia){
             case "Segunda":
                 System.out.println(2);
