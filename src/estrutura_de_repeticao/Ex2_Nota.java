@@ -1,4 +1,4 @@
-package estrutura_de_repeticao_arrays;
+package estrutura_de_repeticao;
 
 import java.util.Scanner;
 
